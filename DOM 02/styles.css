@@ -1,0 +1,27 @@
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:  auto;
+
+}
+
+#change-color-btn{
+height: 50px;
+width: 200px; 
+background-color: green;
+border: 1px solid #000000;
+color:white;
+}
+
+#change-color-btn:hover {
+    background-color: #47acce;
+}
+
+#change-color-btn {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
